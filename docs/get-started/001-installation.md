@@ -1,14 +1,16 @@
 # Installation
 > Installation.
 
-
-## steps:
+## npm
 ```shell
 ni-s mobx
 ni-s react-mobx
 ```
 
-## cdn:
+## decorator
+> To enable ESNext decorators (optional)
+
+## cdn
 ```conf
 ## offictial:
 https://unpkg.com/mobx/lib/mobx.umd.js
@@ -19,5 +21,6 @@ https://www.bootcdn.cn/mobx/
 ```
 
 
-## resouces:
+## resources
 + https://mobx.js.org/
++ https://mobx.js.org/README.html
